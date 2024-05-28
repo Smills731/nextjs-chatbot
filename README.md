@@ -1,5 +1,5 @@
 <a href="https://chat.vercel.ai/">
-  <img alt="CS50 Chat Bot" src="https://chat.vercel.ai/opengraph-image.png">
+  <img alt="CS50 Chat Bot" src="https://i.ytimg.com/vi/AMc2A5Abj3M/maxresdefault.jpg">
   <h1 align="center">CS50 AI Chatbot made with next.js</h1>
 </a>
 
